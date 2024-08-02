@@ -2,7 +2,7 @@
 <h3 align="">A passionate FullStack Developer| Analytical Thinker | Problem Solver</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalmg10&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmg10" /> </p>
 
-- 🔭 I’m currently working on **ADP Payroll Projct**
+- 🔭 I’m currently working on **ADP Payroll Project**
 
 - 🚀 I use daily <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
