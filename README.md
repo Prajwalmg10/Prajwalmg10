@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+Australia+VIC+WA+NT+Hand&weight=500&size=25&pause=1000&color=5BE9F7&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2CI+am+Prajwal+M+G" alt="Typing SVG" /></a>
-<h3 align="">A passionate FullStack Developer| Analytical Thinker | Problem Solver</h3>
+<h3 align="">A Passionate FullStack Developer| Analytical Thinker | Problem Solver</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalmg10&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmg10" /> </p>
 
 - 🔭 I’m currently working on **ADP Payroll Project**
